@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('../../css/julietta-messie.css');
+
+@font-face {
+    font-family: La-Graziela;
+    src: url("../fonts/Lagraziela.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Hearthway;
+    src: url("../fonts/Hearthway.otf") format("opentype");
+}
+
+.fontType-1 {
+    font-size: 72px !important;
+    font-family: 'Tangerine', cursive !important;
+}
+
+.fontType-2 {
+    font-size: 45px !important;
+    font-family: 'Cinzel Decorative', cursive !important;
+}
+
+.fontType-3 {
+    font-size: 60px !important;
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.fontType-4 {
+    font-size: 64px !important;
+    font-family: 'Marck Script', cursive !important;
+}
+
+.fontType-5 {
+    font-size: 48px !important;
+    font-family: 'Libre Caslon Text', serif !important;
+}
+
+.fontType-6 {
+    font-size: 60px !important;
+    font-family: 'Kaushan Script', cursive !important;
+}
+
+.fontType-7 {
+    font-size: 85px !important;
+    font-family: 'La-Graziela', cursive !important;
+}
+
+.fontType-8 {
+    font-size: 70px !important;
+    font-family: 'Julietta Messie', sans-serif !important;
+}
+
+.fontType-9 {
+    font-size: 60px !important;
+    font-family: 'Hearthway', cursive !important;
+}
+
+.fontType-1.duo {
+    font-size: 57px !important;
+    font-family: 'Tangerine', cursive !important;
+}
+
+.fontType-2.duo {
+    font-size: 30px !important;
+    font-family: 'Cinzel Decorative', cursive !important;
+}
+
+.fontType-3.duo {
+    font-size: 45px !important;
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.fontType-4.duo {
+    font-size: 49px !important;
+    font-family: 'Marck Script', cursive !important;
+}
+
+.fontType-5.duo {
+    font-size: 32px !important;
+    font-family: 'Libre Caslon Text', serif !important;
+}
+
+.fontType-6.duo {
+    font-size: 45px !important;
+    font-family: 'Kaushan Script', cursive !important;
+}
+
+.fontType-7.duo {
+    font-size: 70px !important;
+    font-family: 'La-Graziela', cursive !important;
+}
+
+.fontType-8.duo {
+    font-size: 55px !important;
+    font-family: 'Julietta Messie', sans-serif !important;
+}
+
+.fontType-9.duo {
+    font-size: 45px !important;
+    font-family: 'Hearthway', cursive !important;
+}
+
+.fontType-1.duo > span {
+    line-height: 1.5;
+    font-size: 42px !important;
+    font-family: 'Tangerine', cursive !important;
+}
+
+.fontType-2.duo > span {
+    line-height: 1.5;
+    font-size: 18px !important;
+    font-family: 'Cinzel Decorative', cursive !important;
+}
+
+.fontType-3.duo > span {
+    line-height: 1.5;
+    font-size: 30px !important;
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.fontType-4.duo > span {
+    line-height: 1.5;
+    font-size: 34px !important;
+    font-family: 'Marck Script', cursive !important;
+}
+
+.fontType-5.duo > span {
+    line-height: 1.5;
+    font-size: 20px !important;
+    font-family: 'Libre Caslon Text', serif !important;
+}
+
+.fontType-6.duo > span {
+    line-height: 1.5;
+    font-size: 30px !important;
+    font-family: 'Kaushan Script', cursive !important;
+}
+
+.fontType-7.duo > span {
+    line-height: 1.5;
+    font-size: 55px !important;
+    font-family: 'La-Graziela', cursive !important;
+}
+
+.fontType-8.duo > span {
+    line-height: 1.5;
+    font-size: 30px !important;
+    font-family: 'Julietta Messie', sans-serif !important;
+}
+
+.fontType-9.duo > span {
+    line-height: 1.5;
+    font-size: 20px !important;
+    font-family: 'Hearthway', cursive !important;
+}
+
+#text_font, #text_font > option {
+    font-size: 18px !important;
+}
