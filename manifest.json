@@ -1,0 +1,53 @@
+{
+  "theme_color": "#ff7c00",
+  "background_color": "#ff7c00",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://ourbigday.my/",
+  "name": "OurBigDay",
+  "short_name": "OurBigDay",
+  "description": "Digital Wedding Invitation of Suresh &amp; Dhatchaine",
+  "icons": [
+    {
+      "src": "app/192.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app/256.jpg",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "app/384.jpg",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "app/512.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/mx512.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "ourbigday_sureshapp",
+  "lang": "en",
+  "orientation": "portrait",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "entertainment",
+    "lifestyle",
+    "magazines",
+    "personalization",
+    "photo"
+  ]
+}
