@@ -3,7 +3,7 @@
   "background_color": "#ff7c00",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://ourbigday.my/",
+  "start_url": "index.html",
   "name": "OurBigDay",
   "short_name": "OurBigDay",
   "description": "Digital Wedding Invitation of Suresh &amp; Dhatchaine",
